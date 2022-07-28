@@ -3,7 +3,7 @@
 ## Overview
 
 - This analysis uses PostgreSQL to query a database of Pewlett-Hackard employee data to determine how many positions will soon open due to retirement and what those positions are. 
-- Further, the analysis determines what an dhow many employees are eligible for a mentorship program in development that would allow for a smoother transition as employees retire and new employees enter the Pewlett-Hackard community and/or new roles.
+- Further, the analysis determines what and how many employees are eligible for a mentorship program in development that would allow for a smoother transition as employees retire and new employees enter the Pewlett-Hackard community and/or new roles.
 
 ## Results 
 
